@@ -59,67 +59,6 @@ visualization, and statistical analysis.
 
 [View repository →](https://github.com/CamMJ3/BinaryTree-CPP)
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%">
-```
-### 📚 DynamicListCPP
-
-A singly linked list implemented with dynamic memory, including
-automatic ascending-order maintenance and templates.
-
-**Tech:** C++
-
-[View repository →](https://github.com/CamMJ3/DynamicListCPP)
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%">
-```
-### 📦 DynamicStackCPP
-
-A stack implementation in C++ using dynamic memory.
-
-**Tech:** C++
-
-[View repository →](https://github.com/CamMJ3/DynamicStackCPP)
-
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%">
-```
-### 🔄 DynamicQueueCPP
-
-A queue implementation in C++ using dynamic memory.
-
-**Tech:** C++
-
-[View repository →](https://github.com/CamMJ3/DynamicQueueCPP)
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%">
-```
 ### 🔐 PasswordGeneratorPY
 
 A Python password generator using the `secrets` module to create
@@ -143,16 +82,6 @@ functional website.
 **Tech:** HTML
 
 [View repository →](https://github.com/CamMJ3/Website-ForCoursera-)
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
 
 ------------------------------------------------------------------------
 
