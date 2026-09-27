@@ -170,20 +170,6 @@ I designed and developed my own website for an English-learning project, combini
 
 <h2 align="center">✦ GitHub Activity</h2>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=CamMJ3&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=B9A7FF&icon_color=9DD8E8&text_color=FFFFFF"
-    alt="CamMJ3 GitHub statistics"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamMJ3&layout=compact&hide_border=true&theme=transparent&title_color=B9A7FF&text_color=FFFFFF"
-    alt="CamMJ3 most used languages"
-  />
-</p>
-
 <br/>
 
 <p align="center">
